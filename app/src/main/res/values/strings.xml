@@ -1,0 +1,43 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">General Safety Quiz</string>
+    <string name="intro">This is a short quiz on safety at work and at home. Go ahead and test your knowledge about basic safety.</string>
+    <string name="twoPoints">- Each correct answer is worth 2 score points.</string>
+    <string name="noPoints">- Unanswered questions score 0 points.</string>
+    <string name="candidateName">Name:</string>
+    <string name="nameHint">Full Name</string>
+
+    <string name="questionOne">1. When using the stairs, the best practice is to ...</string>
+    <string name="questionTwo">2. The number you dial in case of something very important is called a/an  </string>
+    <string name="questionThree">3. Which TWO of the following are hazardous in the workplace?</string>
+    <string name="questionFour">4. What should be done when the floor is to be mopped?</string>
+    <string name="questionFive">5. The best way to keep pens and pencils on a desk is to...</string>
+
+    <string name="noHands">Not touch the handrail</string>
+    <string name="grabHandrail">Grab the handrail</string>
+    <string name="slide">Slide on the handrail</string>
+
+    <string name="selectTwo">Select two correct answers here or forfeit all marks.</string>
+
+    <string name="brokenFloor">Broken flooring</string>
+    <string name="chippedPaint">Chipped paint</string>
+    <string name="clutteredDesk">A cluttered desk</string>
+
+    <string name="hangNotice">Hang a notice away from the area to be mopped</string>
+    <string name="createBarrier">Create a barrier around the area and include a note with the reason</string>
+    <string name="drizzleFloor">Drizzle the floor with water and leave the area unattended to</string>
+
+    <string name="holder_tipUp">Put in a holder with tips pointing up</string>
+    <string name="onDesk">Leave them lying flat on the desk</string>
+    <string name="holder_tipDown">Put in a holder with tips pointing down</string>
+
+    <string name="noName">You did not enter a name</string>
+    <string name="score_toast">\u0020Your score is\u0020<xliff:g example="5" id="score">%d</xliff:g>\u0020out of 10</string>
+    <string name="good_job">Good job!</string>
+
+    <string name="emergency">emergency</string>
+    <string name="emergency_number">emergency number</string>
+
+    <string name="submit">Submit Answers</string>
+    <string name="answerHint">type answer here</string>
+
+</resources>

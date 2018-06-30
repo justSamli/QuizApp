@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="intro">Ceci est un petit quiz sur la sécurité au travail et à la maison. Allez-y et testez vos connaissances sur la sécurité de base.</string>
+    <string name="twoPoints">- Chaque bonne réponse vaut 2 points.</string>
+    <string name="noPoints">- Les questions sans réponse obtiennent 0 point.</string>
+    <string name="candidateName">Nom</string>
+    <string name="nameHint">Nom Complet</string>
+    <string name="questionOne">1. Lorsque vous utilisez les escaliers, la meilleure pratique est ...</string>
+    <string name="questionTwo">"2. Le numéro que vous appelez en cas de quelque chose de très important est appelé une/un "</string>
+    <string name="grabHandrail">Saisir la main courante</string>
+    <string name="emergency">urgence</string>
+    <string name="emergency_number">numéro d\'urgence</string>
+    <string name="submit">Soumettre des réponses</string>
+    <string name="good_job">Bien fait!</string>
+    <string name="noName">Vous n\'avez pas écrit un nom</string>
+    <string name="questionThree">3. Quelles sont les deux situations dangereuses sur le lieu de travail?</string>
+    <string name="questionFour">4. Qu\'est-ce que vous devez faire lorsque le plancher doit être épongé?</string>
+    <string name="questionFive">5. La meilleure façon de garder des stylos et des crayons sur un bureau est...</string>
+    <string name="holder_tipDown">Les mettre dans un support avec des extrémités pointues vers le bas</string>
+    <string name="holder_tipUp">Les mettre dans un support avec des extrémités pointues vers le haut</string>
+    <string name="onDesk">Laissez-les sur le bureau</string>
+    <string name="noHands">Ne touchez pas le main courante</string>
+    <string name="slide">Glisser sur la balustrade</string>
+    <string name="clutteredDesk">Un bureau encombré</string>
+    <string name="selectTwo">Choisissez deux réponses correctes ou renoncer à toutes les points</string>
+    <string name="brokenFloor">Plancher cassé</string>
+    <string name="chippedPaint">Painture ébréchée</string>
+    <string name="answerHint">écrivez votre réponse ici</string>
+    <string name="hangNotice">Suspendez un avis loin de la zone à épongé</string>
+    <string name="createBarrier">Créer une barrière autour de la zone et ajouter une note avec la raison</string>
+    <string name="drizzleFloor">Arrosez le plancher avec de l\'eau et laissez la zone sans surveillance</string>
+    <string name="app_name">General Safety Quiz</string>
+    <string name="score_toast">\u0020Votre score est de\u0020<xliff:g example="5" id="score">%d</xliff:g>\u0020sur 10</string>
+</resources>
