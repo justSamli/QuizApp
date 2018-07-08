@@ -35,8 +35,9 @@ In which case, the written answers should also be in French including all accent
 ### Download APK
 
 ```
-Signed Release APK here: https://drive.google.com/open?id=1U_20bOh7Ogyv5R-22BER6AsvNwxwcZes 
+Signed Release APK here:  
 ```
+https://drive.google.com/open?id=1U_20bOh7Ogyv5R-22BER6AsvNwxwcZes
 
 ## Acknowledgements
 
